@@ -28,3 +28,10 @@ MiniVSFS Specifications
 Block Size = 4096 Bytes
 Inode Size = 128 Bytes
 Total Blocks = size_kib * 1024 / 4096
+
+
+
+
+Project COntribution: 
+Yeasin FIyaz
+Abrar Shahrier Arnob
