@@ -32,7 +32,7 @@ Total Blocks = size_kib * 1024 / 4096
 
 
 
-## Project COntribution: 
+## Project Contribution: 
 # Yeasin FIyaz 
 &
 # Abrar Shahrier Arnob
